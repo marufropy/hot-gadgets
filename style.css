@@ -92,3 +92,24 @@ footer{
     border-radius: 50%;
     background-color: gray;
 }
+
+.row-categories .col-md-6 img{
+    width: 100%;
+}
+
+.row-categories .col-md-3 img{
+    width: 100%;
+    padding: 60px 60px 20px 60px;
+}
+
+.row-categories .col-md-3 h5{
+    padding: 0px 0px 30px 95px;
+}
+
+.cat-round{
+    border-radius: 10%;
+}
+
+.beauty{
+    margin-bottom: 20px;
+}
