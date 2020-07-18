@@ -23,12 +23,36 @@
 
 .card{
     border: none;
-    border-radius: 20px;
-    box-shadow: 5px 5px 10px lightgray;
-    padding-top: 30px;
+    border-radius: 15px;
+    padding-top: 40px;
+    padding-bottom: 30px;
 }
 
 .card-deck{
     margin-top: 50px;
     margin-bottom: 100px;
+}
+
+.card img{
+    width: 70%;
+}
+
+.card-item-horizontal{
+    justify-content: center;
+}
+
+.nav-item{
+    font-weight: 700;
+}
+
+.card-text{
+    color: gray;
+}
+
+h3, h5{
+    font-weight: 700;
+}
+
+footer{
+    text-align: center;
 }
