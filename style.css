@@ -113,3 +113,11 @@ footer{
 .beauty{
     margin-bottom: 20px;
 }
+
+.cat-uline{
+    width: 90px;
+    height: 6px;
+    margin: auto;
+    background-image: linear-gradient(to right, goldenrod, orange);
+    border-radius: 30px;
+}
